@@ -1,4 +1,4 @@
-#' @name pistachio-anthracnose      
+#' @name pistachio-anthracnose (OptGerTem)      
 #'      
 #' @title Characterization studies of \emph{Colletotrichum karstii} and \emph{C. fioriniae} causing the pistachio anthracnose in 
 #' California      
