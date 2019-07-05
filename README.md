@@ -35,15 +35,15 @@
 #' \item{\code{of}}{numeric variable for the total number conidia counted. Total number of conidia counted from where germination
 #'frequency was made.}      
 #'
-#' }
-#'
-#' @source Lichtemberg,
-#'     P. S. F. (\url{https://www.researchgate.net/profile/Paulo_Lichtemberg}), Michailides,
-#'     T. J. (\url{https://ucanr.edu/?facultyid=1535}), Zeviani W. M. (\url{http://leg.ufpr.br/~walmes/home/}).
-#' University of California Davis, Department of Plant Pathology,
-#' Universidade Federal do Paraná, Department of Statistics.
-#'
-#' @examples
+#' }      
+#'      
+#' @source Lichtemberg,      
+#'     P. S. F. (\url{https://www.researchgate.net/profile/Paulo_Lichtemberg}), Michailides,      
+#'     T. J. (\url{https://ucanr.edu/?facultyid=1535}), Zeviani W. M. (\url{http://leg.ufpr.br/~walmes/home/}).      
+#' University of California Davis, Department of Plant Pathology,      
+#' Universidade Federal do Paraná, Department of Statistics.      
+#'      
+#' @examples      
 #'
 #'
 NULL
