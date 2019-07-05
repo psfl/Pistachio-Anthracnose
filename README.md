@@ -1,6 +1,7 @@
-#' @name pistachio-anthracnose
+#' @name pistachio-anthracnose       
 #' @title Characterization studies of \emph{Colletotrichum karstii} and \emph{C. fioriniae} causing the pistachio anthracnose in 
-#' California
+#' California      
+#'      
 #' @description Optimal Germination Temperature (\% of germinated conidia of \emph{Colletotrichum karstii} (Ck, n=1) and \emph{C.
 #' fioriniae} (Cf, n=6) after 6 and 12 hours, incubated at six different temperatures (10, 15, 20, 25, 30 and 35 Celsius degree). For
 #' each combination of isolate (n=6) and temperature (n=6), 50 ul of conidial suspension at concentration of 10^5 were transferred to
